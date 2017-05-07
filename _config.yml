@@ -1,9 +1,6 @@
-title: Strata by HTML5 UP
-description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
-copyright: Untitled
+title: Arithran Thurairetnam
+description: Nothing super crazy going on here, just info on stuff I build
+copyright: Arithran Thurairetnam
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
@@ -20,3 +17,4 @@ email: "#"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
+permalink: /:categories/:year/:month/:day/:title
