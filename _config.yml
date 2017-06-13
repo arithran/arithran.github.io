@@ -4,14 +4,14 @@ copyright: Arithran Thurairetnam
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: stratajekylldemo
+disqus_shortname: arithran
 facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
+twitter_username: "arithran"
+linkedin_username: "arithran"
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "#"
+github_username:  "arithran"
 feed_icon: rss
 email: "#"
 gems: [jekyll-paginate]
