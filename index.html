@@ -10,7 +10,9 @@ image: /images/fulls/01.jpg
       <span><i class="fa fa-calendar"></i> {{ post.date | date: "%d %B %Y" }}{% if post.categories %} on <i class="fa fa-tags"></i> {{ post.categories | join: ', ' }}{% endif %}</span>
     </p>
     <div>
-      {{ post.excerpt }}
+		{{ post.excerpt }} 
+		<br />
+		<a href="{{post.url}}"> Read More</a>
     </div>
   </section>
 {% endfor %}

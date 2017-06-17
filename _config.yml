@@ -1,20 +1,22 @@
 title: Arithran Thurairetnam
-description: Nothing super crazy going on here, just info on stuff I build and things that annoy on a daily basis
+description: Nothing super crazy going on here, just info on stuff I use, build and things that annoy on a daily 
+    basis. Current goal is to blog once every 3 months
 copyright: Arithran Thurairetnam
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: arithran
-facebook_username:
+disqus_shortname: ari-guru
 twitter_username: "arithran"
 linkedin_username: "arithran"
+googleplus_username: "+ArithranThurairetnam"
+stackoverflow_username: "3018289/arithran"
 instagram_username:
 pinterest_username:
 flickr_username:
 github_username:  "arithran"
 feed_icon: rss
-email: "#"
+email:
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:title
