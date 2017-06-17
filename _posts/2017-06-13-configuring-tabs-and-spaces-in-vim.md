@@ -7,7 +7,7 @@ image:  /preview.jpg
 excerpt: Decide if you want tabs or spaces and Choose the width of your tab or spaces and restart Vim
 ---
 
-###1. Decide if you want tabs or spaces
+### 1. Decide if you want tabs or spaces
 If you want Vim to indent with tabs add the following to your config
 
 	set noexpandtab " Don't expand a tab into spaces
@@ -16,7 +16,7 @@ If you use spaces instead of tabs add the following to your config
 
 	set expandtab " Expand a tab into spaces
 
-###2. Choose the width of your tab or spaces and restart Vim
+### 2. Choose the width of your tab or spaces and restart Vim
 If you selected tabs above, this will simply set the width of a tab character to
 the selected number of columns. If you selected spaces above, this will pretty
 much add that many space characters. Add the following config to set your
